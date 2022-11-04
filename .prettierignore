@@ -1,0 +1,12 @@
+public
+node_modules
+.prettierrc
+.eslintrc.json
+yarn.lock
+package-lock.json
+package.json
+**/*.test.js
+vite.config.ts
+.vscode
+**/*.html
+tsconfig*
